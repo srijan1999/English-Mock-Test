@@ -1,0 +1,152 @@
+[
+    {
+      "question": "Choose the correct synonym of 'Happy'.",
+      "options": ["Sad", "Joyful", "Angry", "Lazy"],
+      "answer": 1
+    },
+    {
+      "question": "Choose the correct antonym of 'Ancient'.",
+      "options": ["Old", "Modern", "Historic", "Traditional"],
+      "answer": 1
+    },
+    {
+      "question": "Choose the correctly spelled word.",
+      "options": ["Recieve", "Receive", "Receeve", "Receve"],
+      "answer": 1
+    },
+    {
+      "question": "Identify the noun in the sentence: 'The dog barked loudly.'",
+      "options": ["Dog", "Barked", "Loudly", "The"],
+      "answer": 0
+    },
+    {
+      "question": "Choose the correct article: ___ apple a day keeps the doctor away.",
+      "options": ["A", "An", "The", "No article"],
+      "answer": 1
+    },
+    {
+      "question": "Which word is a verb?",
+      "options": ["Beauty", "Quickly", "Run", "Blue"],
+      "answer": 2
+    },
+    {
+      "question": "Choose the correct plural form of 'Child'.",
+      "options": ["Childs", "Children", "Childes", "Childrens"],
+      "answer": 1
+    },
+    {
+      "question": "Select the correct sentence.",
+      "options": [
+        "She don't like tea.",
+        "She doesn't likes tea.",
+        "She doesn't like tea.",
+        "She not like tea."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Choose the synonym of 'Brave'.",
+      "options": ["Cowardly", "Fearful", "Courageous", "Weak"],
+      "answer": 2
+    },
+    {
+      "question": "What is the opposite of 'Expand'?",
+      "options": ["Increase", "Stretch", "Contract", "Grow"],
+      "answer": 2
+    },
+    {
+      "question": "Fill in the blank: He ____ playing football.",
+      "options": ["is", "are", "were", "have"],
+      "answer": 0
+    },
+    {
+      "question": "Choose the correct preposition: She lives ___ Kolkata.",
+      "options": ["at", "on", "in", "into"],
+      "answer": 2
+    },
+    {
+      "question": "Which sentence is in the past tense?",
+      "options": [
+        "She writes a letter.",
+        "She wrote a letter.",
+        "She is writing a letter.",
+        "She will write a letter."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Choose the correct pronoun: Rahul and I enjoyed ___.",
+      "options": ["ourselves", "himself", "yourself", "herself"],
+      "answer": 0
+    },
+    {
+      "question": "Which word is an adjective?",
+      "options": ["Beautiful", "Beauty", "Beautify", "Beautifully"],
+      "answer": 0
+    },
+    {
+      "question": "Fill in the blank: They _____ to school every day.",
+      "options": ["go", "goes", "going", "gone"],
+      "answer": 0
+    },
+    {
+      "question": "Choose the correct passive voice: 'The boy kicked the ball.'",
+      "options": [
+        "The ball kicked the boy.",
+        "The ball was kicked by the boy.",
+        "The boy was kicked by the ball.",
+        "The ball is kicked by the boy."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Choose the correct punctuation.",
+      "options": [
+        "Where are you going.",
+        "Where are you going?",
+        "Where are you going!",
+        "Where are you going,"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which word is an adverb?",
+      "options": ["Quick", "Quickness", "Quickly", "Quicker"],
+      "answer": 2
+    },
+    {
+      "question": "Choose the correct comparative form of 'Good'.",
+      "options": ["Gooder", "More good", "Better", "Best"],
+      "answer": 2
+    },
+    {
+      "question": "Fill in the blank: I have lived here _____ five years.",
+      "options": ["since", "for", "from", "at"],
+      "answer": 1
+    },
+    {
+      "question": "Choose the correctly spelled word.",
+      "options": ["Accomodation", "Accommodation", "Acommodation", "Accommadation"],
+      "answer": 1
+    },
+    {
+      "question": "What is the synonym of 'Begin'?",
+      "options": ["End", "Finish", "Start", "Stop"],
+      "answer": 2
+    },
+    {
+      "question": "Choose the correct conjunction: I was tired, ____ I finished my work.",
+      "options": ["because", "but", "and", "although"],
+      "answer": 1
+    },
+    {
+      "question": "Choose the correct sentence.",
+      "options": [
+        "Each of the boys have a book.",
+        "Each of the boys has a book.",
+        "Each boys has a book.",
+        "Each of boys have book."
+      ],
+      "answer": 1
+    }
+  ]
