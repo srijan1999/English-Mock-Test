@@ -1,152 +1,177 @@
 [
-    {
-      "question": "Choose the correct synonym of 'Happy'.",
-      "options": ["Sad", "Joyful", "Angry", "Lazy"],
-      "answer": 1
-    },
-    {
-      "question": "Choose the correct antonym of 'Ancient'.",
-      "options": ["Old", "Modern", "Historic", "Traditional"],
-      "answer": 1
-    },
-    {
-      "question": "Choose the correctly spelled word.",
-      "options": ["Recieve", "Receive", "Receeve", "Receve"],
-      "answer": 1
-    },
-    {
-      "question": "Identify the noun in the sentence: 'The dog barked loudly.'",
-      "options": ["Dog", "Barked", "Loudly", "The"],
-      "answer": 0
-    },
-    {
-      "question": "Choose the correct article: ___ apple a day keeps the doctor away.",
-      "options": ["A", "An", "The", "No article"],
-      "answer": 1
-    },
-    {
-      "question": "Which word is a verb?",
-      "options": ["Beauty", "Quickly", "Run", "Blue"],
-      "answer": 2
-    },
-    {
-      "question": "Choose the correct plural form of 'Child'.",
-      "options": ["Childs", "Children", "Childes", "Childrens"],
-      "answer": 1
-    },
-    {
-      "question": "Select the correct sentence.",
-      "options": [
-        "She don't like tea.",
-        "She doesn't likes tea.",
-        "She doesn't like tea.",
-        "She not like tea."
-      ],
-      "answer": 2
-    },
-    {
-      "question": "Choose the synonym of 'Brave'.",
-      "options": ["Cowardly", "Fearful", "Courageous", "Weak"],
-      "answer": 2
-    },
-    {
-      "question": "What is the opposite of 'Expand'?",
-      "options": ["Increase", "Stretch", "Contract", "Grow"],
-      "answer": 2
-    },
-    {
-      "question": "Fill in the blank: He ____ playing football.",
-      "options": ["is", "are", "were", "have"],
-      "answer": 0
-    },
-    {
-      "question": "Choose the correct preposition: She lives ___ Kolkata.",
-      "options": ["at", "on", "in", "into"],
-      "answer": 2
-    },
-    {
-      "question": "Which sentence is in the past tense?",
-      "options": [
-        "She writes a letter.",
-        "She wrote a letter.",
-        "She is writing a letter.",
-        "She will write a letter."
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Choose the correct pronoun: Rahul and I enjoyed ___.",
-      "options": ["ourselves", "himself", "yourself", "herself"],
-      "answer": 0
-    },
-    {
-      "question": "Which word is an adjective?",
-      "options": ["Beautiful", "Beauty", "Beautify", "Beautifully"],
-      "answer": 0
-    },
-    {
-      "question": "Fill in the blank: They _____ to school every day.",
-      "options": ["go", "goes", "going", "gone"],
-      "answer": 0
-    },
-    {
-      "question": "Choose the correct passive voice: 'The boy kicked the ball.'",
-      "options": [
-        "The ball kicked the boy.",
-        "The ball was kicked by the boy.",
-        "The boy was kicked by the ball.",
-        "The ball is kicked by the boy."
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Choose the correct punctuation.",
-      "options": [
-        "Where are you going.",
-        "Where are you going?",
-        "Where are you going!",
-        "Where are you going,"
-      ],
-      "answer": 1
-    },
-    {
-      "question": "Which word is an adverb?",
-      "options": ["Quick", "Quickness", "Quickly", "Quicker"],
-      "answer": 2
-    },
-    {
-      "question": "Choose the correct comparative form of 'Good'.",
-      "options": ["Gooder", "More good", "Better", "Best"],
-      "answer": 2
-    },
-    {
-      "question": "Fill in the blank: I have lived here _____ five years.",
-      "options": ["since", "for", "from", "at"],
-      "answer": 1
-    },
-    {
-      "question": "Choose the correctly spelled word.",
-      "options": ["Accomodation", "Accommodation", "Acommodation", "Accommadation"],
-      "answer": 1
-    },
-    {
-      "question": "What is the synonym of 'Begin'?",
-      "options": ["End", "Finish", "Start", "Stop"],
-      "answer": 2
-    },
-    {
-      "question": "Choose the correct conjunction: I was tired, ____ I finished my work.",
-      "options": ["because", "but", "and", "although"],
-      "answer": 1
-    },
-    {
-      "question": "Choose the correct sentence.",
-      "options": [
-        "Each of the boys have a book.",
-        "Each of the boys has a book.",
-        "Each boys has a book.",
-        "Each of boys have book."
-      ],
-      "answer": 1
-    }
-  ]
+  {
+    "question": "Choose the correct article: ___ honest man.",
+    "options": ["The", "An", "No article", "A"],
+    "answer": 1
+  },
+  {
+    "question": "What is the past tense of \"run\"?",
+    "options": ["running", "runs", "ran", "runned"],
+    "answer": 2
+  },
+  {
+    "question": "Choose the correct synonym of \"Abundant\".",
+    "options": ["Plentiful", "Rare", "Scarce", "Insufficient"],
+    "answer": 0
+  },
+  {
+    "question": "Choose the correct antonym of \"Benevolent\".",
+    "options": ["Generous", "Compassionate", "Malevolent", "Kind"],
+    "answer": 2
+  },
+  {
+    "question": "Identify the correctly spelt word.",
+    "options": ["Acommodation", "Accommodation", "Accomodation", "Accommadation"],
+    "answer": 1
+  },
+  {
+    "question": "Choose the correct preposition: He is proficient ___ English.",
+    "options": ["with", "on", "in", "at"],
+    "answer": 2
+  },
+  {
+    "question": "Choose the correct transformation: \"He is too weak to walk.\"",
+    "options": [
+      "He is so weak that he cannot walk.",
+      "He is very weak and he can walk.",
+      "He is weak enough to walk.",
+      "He is so weak that he can walk."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Choose the correct passive voice: \"They have completed the project.\"",
+    "options": [
+      "The project was completed by them.",
+      "The project had been completed by them.",
+      "The project has completed by them.",
+      "The project has been completed by them."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Choose the correct indirect speech: He said, \"I am tired.\"",
+    "options": [
+      "He said that I was tired.",
+      "He said that he is tired.",
+      "He said that he was tired.",
+      "He said that I am tired."
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Choose the correct meaning of the idiom \"to spill the beans\".",
+    "options": [
+      "To lose money",
+      "To waste food",
+      "To reveal a secret",
+      "To make a mistake"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Choose the complex form of the sentence: \"He worked hard and passed the examination.\"",
+    "options": [
+      "He worked hard but passed the examination.",
+      "Because he worked hard, he passed the examination.",
+      "He worked hard, so he passed the examination.",
+      "He worked hard to pass the examination."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Choose the correct form: Neither the teacher nor the students ___ responsible.",
+    "options": ["has", "are", "is", "was"],
+    "answer": 1
+  },
+  {
+    "question": "What is the noun form of \"decide\"?",
+    "options": ["Decisive", "Decision", "Deciding", "Decided"],
+    "answer": 1
+  },
+  {
+    "question": "Choose the correct word: The medicine had no ___ on the patient.",
+    "options": ["affect", "affects", "effect", "effects"],
+    "answer": 2
+  },
+  {
+    "question": "Identify the correctly constructed sentence.",
+    "options": [
+      "Hardly he had arrived when it started raining.",
+      "Hardly had he arrived than it started raining.",
+      "Hardly he arrived when it had started raining.",
+      "Hardly had he arrived when it started raining."
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Choose the correct synonym of \"Meticulous\".",
+    "options": ["Careful", "Negligent", "Hasty", "Careless"],
+    "answer": 0
+  },
+  {
+    "question": "Choose the correct antonym of \"Transient\".",
+    "options": ["Brief", "Temporary", "Momentary", "Permanent"],
+    "answer": 3
+  },
+  {
+    "question": "Choose the complex form of: \"In spite of being ill, he attended the meeting.\"",
+    "options": [
+      "He attended the meeting because he was ill.",
+      "Although he was ill, he attended the meeting.",
+      "He was ill and attended the meeting.",
+      "He was ill, so he attended the meeting."
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Choose the correct one-word substitution for \"A person who speaks many languages\".",
+    "options": ["Polyglot", "Orator", "Philologist", "Linguist"],
+    "answer": 0
+  },
+  {
+    "question": "Identify the error: \"Each of the players have received a medal.\"",
+    "options": ["of the players", "Each", "a medal", "have received"],
+    "answer": 3
+  },
+  {
+    "question": "Choose the correct phrasal verb: The meeting was ___ because of the storm.",
+    "options": ["called up", "called off", "called on", "called in"],
+    "answer": 1
+  },
+  {
+    "question": "What does the idiom \"a blessing in disguise\" mean?",
+    "options": [
+      "A dishonest act",
+      "A religious ceremony",
+      "A visible advantage",
+      "Something that seems bad but turns out beneficial"
+    ],
+    "answer": 3
+  },
+  {
+    "question": "Choose the correct tense: By next year, she ___ her degree.",
+    "options": ["completes", "completed", "will have completed", "has completed"],
+    "answer": 2
+  },
+  {
+    "question": "Choose the complex form of: \"He was poor but he was honest.\"",
+    "options": [
+      "Although he was poor, he was honest.",
+      "He was poor and honest.",
+      "He was poor, so he was honest.",
+      "He was poor because he was honest."
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Choose the correctly punctuated sentence.",
+    "options": [
+      "However I decided to go.",
+      "However; I decided to go.",
+      "However I, decided to go.",
+      "However, I decided to go."
+    ],
+    "answer": 3
+  }
+]
